@@ -126,7 +126,6 @@ li:hover {
   background: 
     linear-gradient(#1095c1 0 0) 
     bottom/100% var(--_d, 0) no-repeat;
-  overflow: hidden;
   transition: 0.3s;
 }
 .hoverli:hover {
